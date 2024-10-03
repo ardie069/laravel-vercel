@@ -15,7 +15,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://laravel-vercel-one-woad.vercel.app",
+        "APP_URL": "https://laravel-vercel-pi.vercel.app",
         "APP_KEY": "base64:gOIB3zKWhdR5ZJlMZUgJWLYgkELdNA3pIrIOiUVnK6E=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
