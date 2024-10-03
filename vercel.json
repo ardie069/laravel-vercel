@@ -13,7 +13,7 @@
         }
     ],
     "env": {
-        "APP_ENV": "production",
+        "APP_ENV": "development",
         "APP_DEBUG": "true",
         "APP_URL": "https://laravel-vercel-pi.vercel.app",
         "APP_KEY": "base64:gOIB3zKWhdR5ZJlMZUgJWLYgkELdNA3pIrIOiUVnK6E=",
